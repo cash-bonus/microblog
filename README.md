@@ -15,4 +15,4 @@ Next run `source venv/bin/activate/` to activate the virtual environment for the
 
 Finally `flask run` activates the development server.
 
-Now that our microblog is running, pop open a web browser and type in localhost:5000 in your url bar.
+Now that our microblog is running, pop open a web browser and type in localhost:5000 in your url bar to see it in action.
