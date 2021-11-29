@@ -6,9 +6,9 @@ Code structure emphasizes minimalism and scalability by using extendable templat
 
 You can try this project out for yourself if you like!
 
-use `git clone` to clone this repository
-then run `cd microblog/` to move into the project directory
-next run `source venv/bin/activate/` to activate the virtual environment for the project
-and finally `flask run` to run the development server
+use `git clone` to clone this repository,
+then run `cd microblog/` to move into the project directory.
+Next run `source venv/bin/activate/` to activate the virtual environment for the project.
+Finally `flask run` activates the development server.
 
 Now that our microblog is running, pop open a web browser and type in localhost:5000 in your url bar.
